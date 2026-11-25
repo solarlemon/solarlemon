@@ -12,8 +12,6 @@
     <!-- <a href="https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a> -->
     <img src="https://komarev.com/ghpvc/?username=solarlemon&style=for-the-badge&color=2563EB&label=VIEWS" alt="页面访问次数" />
     <img src="https://img.shields.io/github/stars/solarlemon?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=FFFFFF" alt="星标" />
-    <a href="https://github.com/solarlemon/awesome-github-readme-profile"><img src="https://img.shields.io/badge/Use%20This%20Template-EFF6FF?style=for-the-badge&logo=github&logoColor=2563EB" alt="Use This Template" /></a>
-    <a href="https://github.com/solarlemon/solarlemon.github.io"><img src="https://img.shields.io/badge/Use%20My%20Website%20Template-F0F9FF?style=for-the-badge&logo=google-chrome&logoColor=0284C7" alt="My Website Template" /></a>
   </p>
 </div>
 
